@@ -1,0 +1,4 @@
+Bonjour
+Voici un test
+Au revoir!
+Nombre total de lignes copiées : 3
